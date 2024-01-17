@@ -1,0 +1,7 @@
+header ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 90px;
+    list-style: none;
+  
+}
